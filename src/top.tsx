@@ -1,7 +1,7 @@
 export function Top() {
   return (
 
-    <div id="top" className="bg-cover bg-center bg-[url('src/pic/996774.jpg')] h-screen p-64">
+    <div id="top" className="bg-cover bg-center bg-[url('../pic/996774.jpg')] h-screen p-64">
       <h1 className="text-5xl text-purple-400 font-bold text-center pb-3">Welcome to my Portfolio</h1>
       <div className="flex flex-row justify-center items-center gap-4">
         <a
