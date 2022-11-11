@@ -21,7 +21,7 @@ export function Mid() {
                 </div>
 
                 <div class="py-9 flex justify-center">
-                    <img src="../pic/982770.png" class="border-solid border-2 border-purple-500  w-64 h-auto"></img>
+                    <img src="../pic/846697.png" class="border-solid border-2 border-purple-500  w-64 h-auto"></img>
 
                 </div>
 
