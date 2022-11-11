@@ -3,6 +3,7 @@ export function Top() {
 
     <div id="top" className="bg-cover bg-center bg-[url('../pic/996774.jpg')] h-screen p-64">
       <h1 className="text-5xl text-purple-400 font-bold text-center pb-3">Welcome to my Portfolio</h1>
+      <p className="text-2xl text-white font-bold text-center pb-3">Pakaporn Kanteng 65070501042</p>
       <div className="flex flex-row justify-center items-center gap-4">
         <a
           className="github-button text-purple-500 font-bold"
